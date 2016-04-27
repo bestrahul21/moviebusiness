@@ -1,0 +1,5 @@
+<html>
+<body>
+<?php echo "Successfully Added"; ?>
+</body>
+</html>
